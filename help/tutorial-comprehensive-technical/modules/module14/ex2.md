@@ -372,7 +372,7 @@ Click **+ Create Collection**.
 
 ![Decision Rule](./images/createcollection.png)
 
-You'l then see this popup:
+You'll then see this popup:
 
 ![Decision Rule](./images/createcollectionpopup.png)
 
